@@ -8,5 +8,5 @@ Platform: OS X Yosemite
 
 Engine Version:
 -------------------------
-cocos2d-x-3.2, downloaded on 2014/08.
+cocos2d-x-3.2, downloaded on 2014/08, cocos2d-x.org.
 
